@@ -1,0 +1,2 @@
+rootProject.name = "Ikeo_test01"
+include ':app'
